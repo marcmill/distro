@@ -4,7 +4,7 @@ Distribuição educacional Pandorga Linux. Pacotes principais.
 English version: See bellow
 
 Os scripts e códigos-fonte aqui contidos sao usados para criar o Pandorga GNU/Linux.
-Normalmente você nao precisa fazer isto em casa, uma versao diaria do Pandorga pode ser encontrada no site do Pandorga. Es scrit é usado pelos desenvolvedores do Pandorga, ou se você deseja estudar, aprimorar ou usar em seu próprio projeto.
+Normalmente você nao precisa fazer isto em casa, uma versao diaria do Pandorga pode ser encontrada no site do Pandorga. Este script é usado pelos desenvolvedores do Pandorga, ou se você deseja estudar, aprimorar ou usar em seu próprio projeto.
 
 Para usar os scripts do Pandorga e gerar a iso em seu ambiente local, siga os seguintes passos num computador com o Debian ou o próprio Pandorga instalado (os comandos devem ser usados como root):
 
